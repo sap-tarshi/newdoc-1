@@ -1,0 +1,8 @@
+AWS CSA Associate Lecture 1 (Introduction to Certification)
+AWS CSA Associate Lecture 9 (Security Groups EC2)
+AWS CSA Associate Lecture 32 (Storage & Gateways)
+AWS CSA Associate Lecture 17 (NAT Gateways)
+AWS CSA Associate Lecture 46 (AWS Elastic File System EFS)
+AWS CSA Associate Lecture 50 (How to Configure AWS CLI Command Line Interface in Windows)
+AWS CSA Associate Lecture 52 (EC2 Windows RAID Arrays)
+AWS CSA Associate Lecture 24 (S3 Introduction)
